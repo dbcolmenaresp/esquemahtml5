@@ -1,5 +1,6 @@
 # esquemahtml5
 Esquema de página realizada con el estandar html5 para guía de desarrollo de otras páginas
+
 Una página con el estandard html5 esta formada por los siguientes bloques:
 
 header se usa para definir la cabecera de la página
