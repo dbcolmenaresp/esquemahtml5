@@ -1,5 +1,8 @@
-# esquemahtml5
+# Esquema de un documento html 5
+
 Esquema de página realizada con el estandar html5 para guía de desarrollo de otras páginas
+
+El nuevo estandar html 5 provee los elementos estrucutrales
 
 Una página con el estandard html5 esta formada por los siguientes bloques:
 
