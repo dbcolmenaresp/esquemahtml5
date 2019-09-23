@@ -2,6 +2,8 @@
 
 Esquema de página realizada con el estandar html5 para guía de desarrollo de otras páginas
 
+El estandar HTML5 es una evolucón de HTML4 y XHTML
+
 El nuevo estandar html 5 provee los elementos estrucutrales
 
 Una página con el estandard html5 esta formada por los siguientes bloques:
